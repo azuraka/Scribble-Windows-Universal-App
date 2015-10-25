@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SASHPC</Machine>
+    <WindowsUser>sash</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>Microsoft.SDKSamples.simpleInk.CS</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>9C4292DB11236D415D3A400135B820F38118F8BACC89101E4002DC281BE38C91</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>Microsoft.SDKSamples.simpleInk.CS_1.0.0.0_neutral__8wekyb3d8bbwe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>Microsoft.SDKSamples.simpleInk.CS_8wekyb3d8bbwe!SDKSample.App</RegisteredUserModeAppID>
+    <RegisteredPackageID>Microsoft.SDKSamples.simpleInk.CS</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-04T14:32:42.576</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\simpleInk.exe">
+      <PackagePath>simpleInk.exe</PackagePath>
+      <Modified>2015-10-04T15:16:17.958</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\Assets\logo.png">
+      <PackagePath>Assets\logo.png</PackagePath>
+      <Modified>2015-10-04T14:37:26.165</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\Assets\microsoft-sdk.png">
+      <PackagePath>Assets\microsoft-sdk.png</PackagePath>
+      <Modified>2014-06-05T23:48:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\Assets\placeholder-sdk.png">
+      <PackagePath>Assets\placeholder-sdk.png</PackagePath>
+      <Modified>2014-06-05T23:48:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\Assets\smallTile-sdk.png">
+      <PackagePath>Assets\smallTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T23:48:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\Assets\splash-sdk.scale-180.png">
+      <PackagePath>Assets\splash-sdk.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-04T14:37:26.165</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\Assets\squareTile-sdk.png">
+      <PackagePath>Assets\squareTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T23:48:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\Assets\storeLogo-sdk.png">
+      <PackagePath>Assets\storeLogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T23:48:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\Assets\tile-sdk.png">
+      <PackagePath>Assets\tile-sdk.png</PackagePath>
+      <Modified>2014-06-05T23:48:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\Assets\windows-sdk.png">
+      <PackagePath>Assets\windows-sdk.png</PackagePath>
+      <Modified>2014-06-05T23:48:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-10-04T14:32:41.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\Home.xbf">
+      <PackagePath>Home.xbf</PackagePath>
+      <Modified>2015-10-04T15:16:17.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\Language.xbf">
+      <PackagePath>Language.xbf</PackagePath>
+      <Modified>2015-10-04T15:16:17.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\Sample-Utils\SampleTemplateStyles.xbf">
+      <PackagePath>Sample-Utils\SampleTemplateStyles.xbf</PackagePath>
+      <Modified>2015-10-04T14:32:41.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\Scenario1.xbf">
+      <PackagePath>Scenario1.xbf</PackagePath>
+      <Modified>2015-10-04T14:32:41.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2015-10-04T14:32:41.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-10-04T15:16:17.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\simpleInk.xr.xml">
+      <PackagePath>simpleInk.xr.xml</PackagePath>
+      <Modified>2015-10-04T15:11:09.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-10-04T14:32:42.357</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

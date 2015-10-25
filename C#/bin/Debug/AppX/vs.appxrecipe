@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>IDEA-PC</Machine>
+    <WindowsUser>Noor</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>Microsoft.SDKSamples.simpleInk.CS</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Noor\Desktop\Input Simplified ink sample\C#\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>7F84B7D330EB54CE58387DE57C0F190795C799CA398E4BB54BEFFC3B4C744CF8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>Microsoft.SDKSamples.simpleInk.CS_1.0.0.0_neutral__8wekyb3d8bbwe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>Microsoft.SDKSamples.simpleInk.CS_8wekyb3d8bbwe!SDKSample.App</RegisteredUserModeAppID>
+    <RegisteredPackageID>Microsoft.SDKSamples.simpleInk.CS</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Noor\Desktop\Input Simplified ink sample\C#\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-29T04:08:42.639</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Noor\Desktop\Input Simplified ink sample\C#\bin\Debug\simpleInk.exe">
+      <PackagePath>simpleInk.exe</PackagePath>
+      <Modified>2015-03-29T05:02:03.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Noor\Desktop\Input Simplified ink sample\C#\Assets\microsoft-sdk.png">
+      <PackagePath>Assets\microsoft-sdk.png</PackagePath>
+      <Modified>2014-06-05T23:48:28.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Noor\Desktop\Input Simplified ink sample\C#\Assets\placeholder-sdk.png">
+      <PackagePath>Assets\placeholder-sdk.png</PackagePath>
+      <Modified>2014-06-05T23:48:28.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Noor\Desktop\Input Simplified ink sample\C#\Assets\smallTile-sdk.png">
+      <PackagePath>Assets\smallTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T23:48:28.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Noor\Desktop\Input Simplified ink sample\C#\Assets\splash-sdk.png">
+      <PackagePath>Assets\splash-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T23:48:28.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Noor\Desktop\Input Simplified ink sample\C#\Assets\squareTile-sdk.png">
+      <PackagePath>Assets\squareTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T23:48:28.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Noor\Desktop\Input Simplified ink sample\C#\Assets\storeLogo-sdk.png">
+      <PackagePath>Assets\storeLogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T23:48:28.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Noor\Desktop\Input Simplified ink sample\C#\Assets\tile-sdk.png">
+      <PackagePath>Assets\tile-sdk.png</PackagePath>
+      <Modified>2014-06-05T23:48:28.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Noor\Desktop\Input Simplified ink sample\C#\Assets\windows-sdk.png">
+      <PackagePath>Assets\windows-sdk.png</PackagePath>
+      <Modified>2014-06-05T23:48:28.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Noor\Desktop\Input Simplified ink sample\C#\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-29T04:08:40.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Noor\Desktop\Input Simplified ink sample\C#\bin\Debug\Home.xbf">
+      <PackagePath>Home.xbf</PackagePath>
+      <Modified>2015-03-29T04:08:40.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Noor\Desktop\Input Simplified ink sample\C#\bin\Debug\Language.xbf">
+      <PackagePath>Language.xbf</PackagePath>
+      <Modified>2015-03-29T04:40:07.800</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Noor\Desktop\Input Simplified ink sample\C#\bin\Debug\Sample-Utils\SampleTemplateStyles.xbf">
+      <PackagePath>Sample-Utils\SampleTemplateStyles.xbf</PackagePath>
+      <Modified>2015-03-29T03:05:53.668</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Noor\Desktop\Input Simplified ink sample\C#\bin\Debug\Scenario1.xbf">
+      <PackagePath>Scenario1.xbf</PackagePath>
+      <Modified>2015-03-29T03:05:53.671</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Noor\Desktop\Input Simplified ink sample\C#\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2015-03-29T03:05:53.688</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Noor\Desktop\Input Simplified ink sample\C#\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-03-29T05:02:03.078</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Noor\Desktop\Input Simplified ink sample\C#\bin\Debug\simpleInk.xr.xml">
+      <PackagePath>simpleInk.xr.xml</PackagePath>
+      <Modified>2015-03-29T04:52:46.222</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Noor\Desktop\Input Simplified ink sample\C#\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-29T04:08:41.944</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

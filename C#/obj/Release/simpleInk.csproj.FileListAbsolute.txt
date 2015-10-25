@@ -1,0 +1,192 @@
+C:\Users\Noor\Desktop\PresentWorking\C#\bin\Release\Assets\microsoft-sdk.png
+C:\Users\Noor\Desktop\PresentWorking\C#\bin\Release\Assets\placeholder-sdk.png
+C:\Users\Noor\Desktop\PresentWorking\C#\bin\Release\Assets\smallTile-sdk.png
+C:\Users\Noor\Desktop\PresentWorking\C#\bin\Release\Assets\squareTile-sdk.png
+C:\Users\Noor\Desktop\PresentWorking\C#\bin\Release\Assets\storeLogo-sdk.png
+C:\Users\Noor\Desktop\PresentWorking\C#\bin\Release\Assets\tile-sdk.png
+C:\Users\Noor\Desktop\PresentWorking\C#\bin\Release\Assets\windows-sdk.png
+C:\Users\Noor\Desktop\PresentWorking\C#\bin\Release\App.xbf
+C:\Users\Noor\Desktop\PresentWorking\C#\bin\Release\Home.xbf
+C:\Users\Noor\Desktop\PresentWorking\C#\bin\Release\Language.xbf
+C:\Users\Noor\Desktop\PresentWorking\C#\bin\Release\Sample-Utils\SampleTemplateStyles.xbf
+C:\Users\Noor\Desktop\PresentWorking\C#\bin\Release\Scenario1.xbf
+C:\Users\Noor\Desktop\PresentWorking\C#\bin\Release\Common\StandardStyles.xbf
+C:\Users\Noor\Desktop\PresentWorking\C#\bin\Release\MainPage.xbf
+C:\Users\Noor\Desktop\PresentWorking\C#\bin\Release\simpleInk.xr.xml
+C:\Users\Noor\Desktop\PresentWorking\C#\bin\Release\simpleInk.exe
+C:\Users\Noor\Desktop\PresentWorking\C#\bin\Release\simpleInk.pdb
+C:\Users\Noor\Desktop\PresentWorking\C#\bin\Release\resources.pri
+C:\Users\Noor\Desktop\PresentWorking\C#\bin\Release\AppxManifest.xml
+C:\Users\Noor\Desktop\PresentWorking\C#\bin\Release\simpleInk.build.appxrecipe
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\App.g.i.cs
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\App.g.cs
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\Home.g.i.cs
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\Home.g.cs
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\Language.g.i.cs
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\Language.g.cs
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\Sample-Utils\SampleTemplateStyles.g.i.cs
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\Sample-Utils\SampleTemplateStyles.g.cs
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\Scenario1.g.i.cs
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\Scenario1.g.cs
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\Common\StandardStyles.g.cs
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\MainPage.g.i.cs
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\MainPage.g.cs
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\App.xaml
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\Home.xaml
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\Language.xaml
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\Sample-Utils\SampleTemplateStyles.xaml
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\Scenario1.xaml
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\Common\StandardStyles.xaml
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\MainPage.xaml
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\App.xbf
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\Home.xbf
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\Language.xbf
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\Sample-Utils\SampleTemplateStyles.xbf
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\Scenario1.xbf
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\Common\StandardStyles.xbf
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\MainPage.xbf
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\XamlSaveStateFile.xml
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\simpleInk.exe
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\simpleInk.pdb
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\priconfig.xml
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\priconfig.xml.intermediate
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\layout.resfiles
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\layout.resfiles.intermediate
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\resources.resfiles
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\resources.resfiles.intermediate
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\pri.resfiles
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\pri.resfiles.intermediate
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\qualifiers.txt
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\qualifiers.txt.intermediate
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Noor\Desktop\PresentWorking\C#\obj\Release\ProjectArchitectures.txt
+E:\r3\PresentWorking\C#\bin\Release\Assets\microsoft-sdk.png
+E:\r3\PresentWorking\C#\bin\Release\Assets\placeholder-sdk.png
+E:\r3\PresentWorking\C#\bin\Release\Assets\smallTile-sdk.png
+E:\r3\PresentWorking\C#\bin\Release\Assets\squareTile-sdk.png
+E:\r3\PresentWorking\C#\bin\Release\Assets\storeLogo-sdk.png
+E:\r3\PresentWorking\C#\bin\Release\Assets\tile-sdk.png
+E:\r3\PresentWorking\C#\bin\Release\Assets\windows-sdk.png
+E:\r3\PresentWorking\C#\bin\Release\App.xbf
+E:\r3\PresentWorking\C#\bin\Release\Home.xbf
+E:\r3\PresentWorking\C#\bin\Release\Language.xbf
+E:\r3\PresentWorking\C#\bin\Release\Sample-Utils\SampleTemplateStyles.xbf
+E:\r3\PresentWorking\C#\bin\Release\Scenario1.xbf
+E:\r3\PresentWorking\C#\bin\Release\Common\StandardStyles.xbf
+E:\r3\PresentWorking\C#\bin\Release\MainPage.xbf
+E:\r3\PresentWorking\C#\bin\Release\simpleInk.xr.xml
+E:\r3\PresentWorking\C#\bin\Release\simpleInk.exe
+E:\r3\PresentWorking\C#\bin\Release\simpleInk.pdb
+E:\r3\PresentWorking\C#\bin\Release\resources.pri
+E:\r3\PresentWorking\C#\bin\Release\AppxManifest.xml
+E:\r3\PresentWorking\C#\bin\Release\simpleInk.build.appxrecipe
+E:\r3\PresentWorking\C#\obj\Release\App.g.i.cs
+E:\r3\PresentWorking\C#\obj\Release\App.g.cs
+E:\r3\PresentWorking\C#\obj\Release\Home.g.i.cs
+E:\r3\PresentWorking\C#\obj\Release\Home.g.cs
+E:\r3\PresentWorking\C#\obj\Release\Language.g.i.cs
+E:\r3\PresentWorking\C#\obj\Release\Language.g.cs
+E:\r3\PresentWorking\C#\obj\Release\Sample-Utils\SampleTemplateStyles.g.i.cs
+E:\r3\PresentWorking\C#\obj\Release\Sample-Utils\SampleTemplateStyles.g.cs
+E:\r3\PresentWorking\C#\obj\Release\Scenario1.g.i.cs
+E:\r3\PresentWorking\C#\obj\Release\Scenario1.g.cs
+E:\r3\PresentWorking\C#\obj\Release\Common\StandardStyles.g.i.cs
+E:\r3\PresentWorking\C#\obj\Release\Common\StandardStyles.g.cs
+E:\r3\PresentWorking\C#\obj\Release\MainPage.g.i.cs
+E:\r3\PresentWorking\C#\obj\Release\MainPage.g.cs
+E:\r3\PresentWorking\C#\obj\Release\XamlTypeInfo.g.cs
+E:\r3\PresentWorking\C#\obj\Release\App.xaml
+E:\r3\PresentWorking\C#\obj\Release\Home.xaml
+E:\r3\PresentWorking\C#\obj\Release\Language.xaml
+E:\r3\PresentWorking\C#\obj\Release\Sample-Utils\SampleTemplateStyles.xaml
+E:\r3\PresentWorking\C#\obj\Release\Scenario1.xaml
+E:\r3\PresentWorking\C#\obj\Release\Common\StandardStyles.xaml
+E:\r3\PresentWorking\C#\obj\Release\MainPage.xaml
+E:\r3\PresentWorking\C#\obj\Release\App.xbf
+E:\r3\PresentWorking\C#\obj\Release\Home.xbf
+E:\r3\PresentWorking\C#\obj\Release\Language.xbf
+E:\r3\PresentWorking\C#\obj\Release\Sample-Utils\SampleTemplateStyles.xbf
+E:\r3\PresentWorking\C#\obj\Release\Scenario1.xbf
+E:\r3\PresentWorking\C#\obj\Release\Common\StandardStyles.xbf
+E:\r3\PresentWorking\C#\obj\Release\MainPage.xbf
+E:\r3\PresentWorking\C#\obj\Release\XamlSaveStateFile.xml
+E:\r3\PresentWorking\C#\obj\Release\simpleInk.exe
+E:\r3\PresentWorking\C#\obj\Release\simpleInk.pdb
+E:\r3\PresentWorking\C#\obj\Release\priconfig.xml
+E:\r3\PresentWorking\C#\obj\Release\priconfig.xml.intermediate
+E:\r3\PresentWorking\C#\obj\Release\layout.resfiles
+E:\r3\PresentWorking\C#\obj\Release\layout.resfiles.intermediate
+E:\r3\PresentWorking\C#\obj\Release\resources.resfiles
+E:\r3\PresentWorking\C#\obj\Release\resources.resfiles.intermediate
+E:\r3\PresentWorking\C#\obj\Release\pri.resfiles
+E:\r3\PresentWorking\C#\obj\Release\pri.resfiles.intermediate
+E:\r3\PresentWorking\C#\obj\Release\qualifiers.txt
+E:\r3\PresentWorking\C#\obj\Release\qualifiers.txt.intermediate
+E:\r3\PresentWorking\C#\obj\Release\MultipleQualifiersPerDimensionFound.txt
+E:\r3\PresentWorking\C#\obj\Release\ProjectArchitectures.txt
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\Assets\microsoft-sdk.png
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\Assets\placeholder-sdk.png
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\Assets\smallTile-sdk.png
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\Assets\squareTile-sdk.png
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\Assets\storeLogo-sdk.png
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\Assets\tile-sdk.png
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\Assets\windows-sdk.png
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\App.xbf
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\Home.xbf
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\Language.xbf
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\Sample-Utils\SampleTemplateStyles.xbf
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\Scenario1.xbf
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\Common\StandardStyles.xbf
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\MainPage.xbf
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\simpleInk.xr.xml
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\simpleInk.exe
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\simpleInk.pdb
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\resources.pri
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\AppxManifest.xml
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\bin\Release\simpleInk.build.appxrecipe
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\App.g.i.cs
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\App.g.cs
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\Home.g.i.cs
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\Home.g.cs
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\Language.g.i.cs
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\Language.g.cs
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\Sample-Utils\SampleTemplateStyles.g.i.cs
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\Sample-Utils\SampleTemplateStyles.g.cs
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\Scenario1.g.i.cs
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\Scenario1.g.cs
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\Common\StandardStyles.g.cs
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\MainPage.g.i.cs
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\MainPage.g.cs
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\App.xaml
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\Home.xaml
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\Language.xaml
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\Sample-Utils\SampleTemplateStyles.xaml
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\Scenario1.xaml
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\Common\StandardStyles.xaml
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\MainPage.xaml
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\App.xbf
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\Home.xbf
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\Language.xbf
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\Sample-Utils\SampleTemplateStyles.xbf
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\Scenario1.xbf
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\Common\StandardStyles.xbf
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\MainPage.xbf
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\XamlSaveStateFile.xml
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\simpleInk.exe
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\simpleInk.pdb
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\priconfig.xml
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\priconfig.xml.intermediate
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\layout.resfiles
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\layout.resfiles.intermediate
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\resources.resfiles
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\resources.resfiles.intermediate
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\pri.resfiles
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\pri.resfiles.intermediate
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\qualifiers.txt
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\qualifiers.txt.intermediate
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Sharvil\Documents\WindowsApp\Lingo Windows PhoneApp\r3\PresentWorking\C#\obj\Release\ProjectArchitectures.txt
